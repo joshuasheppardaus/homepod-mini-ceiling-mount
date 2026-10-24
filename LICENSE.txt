@@ -1,0 +1,10 @@
+Project licence: CERN Open Hardware Licence Version 2 — Strongly Reciprocal
+SPDX-License-Identifier: CERN-OHL-S-2.0
+
+The source and associated hardware design files in this project are released under CERN-OHL-S-2.0. The full licence terms are maintained by the official licence steward and are available here:
+
+Official CERN Open Hardware Licence site: https://cern-ohl.web.cern.ch/
+SPDX full licence text: https://spdx.org/licenses/CERN-OHL-S-2.0.html
+Plain-text licence source: https://github.com/spdx/license-list-data/blob/main/text/CERN-OHL-S-2.0.txt
+
+For repository hosting, use the platform's CERN-OHL-S-2.0 licence option where available, or copy the complete unmodified licence text from the official source into this file. This project does not modify the licence text.
